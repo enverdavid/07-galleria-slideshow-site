@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header"></header>
-      <h1 className="titulo-general">Título de la grilla</h1>
+      <h1 className="titulo-general">Grid title</h1>
       <Grilla />
 
     </div>
